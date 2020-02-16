@@ -33,6 +33,16 @@
 		<tr>	
 			<td><b>Advisor:</b> Dr.T. Vengattaraman</td>
 		</tr>
+		
+		<tr>
+			<td><b>Bachelors in Computer Science</b></td><td></td><td></td><td></td><td>(2014-2017)</td>
+		</tr>
+		<tr>
+			<td>Achariya Arts And Science College (AASC)</td><td></td><td></td><td></td><td></td>
+		</tr>
+		<tr>	
+			<td><b>Advisor:</b> Dr.Sherif Baig</td>
+		</tr>
 	</table>
 	</center>
 </body>
