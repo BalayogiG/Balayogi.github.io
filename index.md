@@ -33,7 +33,6 @@
 		<tr>	
 			<td><b>Advisor:</b> Dr.T. Vengattaraman</td>
 		</tr>
-		
 		<tr>
 			<td><b>Bachelors in Computer Science</b></td><td></td><td></td><td></td><td>(2014-2017)</td>
 		</tr>
