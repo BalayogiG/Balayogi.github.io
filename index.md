@@ -2,7 +2,7 @@
 <html>
 <body>
 	<center>
-	<table border="0px">
+	<table border="0">
 		<tr>
 			<td><h1>Balayogi G</h1></td><td></td><td></td><td></td><td><i>balayogi.gnanasekar@gmail.com</i></td>
 		</tr>
